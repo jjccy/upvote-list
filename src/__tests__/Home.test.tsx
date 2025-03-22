@@ -1,7 +1,7 @@
 import { render, screen, fireEvent } from '@testing-library/react';
 import Home from '../pages/Home';
 import { UpvoteProvider } from '../context/UpvoteContext';
-import { describe, it, expect, vi } from 'vitest';
+import { describe, it, expect } from 'vitest';
 
 describe('Home Component', () => {
     it('renders Home component', () => {
