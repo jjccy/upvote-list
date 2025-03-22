@@ -1,4 +1,4 @@
-// src/components/Upvote.tsx
+// src/components/Button.tsx
 import React from 'react';
 import styled from 'styled-components';
 
